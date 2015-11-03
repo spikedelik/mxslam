@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mozilla Evangelism Reps shower 
 
 This is the HTML5 slide deck system created to make it easier for Mozilla evangelism reps to get started with their presentations. 
@@ -52,3 +53,8 @@ You can control the display of lists by adding various classes to the UL element
 - Adding a "shadow" class gives it a drop shadow
 - Adding a "frame" class makes the image look like it is hanging from a nail
 - Adding a "swing" class adds an animation to dangle it from the nail.
+=======
+#KYC
+Slam Book Project for MXBLR
+
+>>>>>>> origin/master
